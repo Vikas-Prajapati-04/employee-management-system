@@ -1,0 +1,16 @@
+# Employee Management System — Dependencies
+# All modules used are part of the Python Standard Library.
+# No pip install required.
+#
+# Minimum Python version: 3.8
+#
+# Standard library modules used:
+#   tkinter    — GUI framework
+#   json       — Data storage
+#   csv        — Export functionality
+#   hashlib    — Password hashing (SHA-256)
+#   secrets    — Cryptographic salt generation
+#   calendar   — Month/day calculations
+#   datetime   — Date handling
+#   socket     — IP address detection
+#   os, re     — File I/O and validation
