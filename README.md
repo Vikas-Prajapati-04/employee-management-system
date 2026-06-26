@@ -22,7 +22,7 @@ A desktop application built with **Python & Tkinter** for managing employees, tr
 
 ## Screenshots
 
-> *(Add screenshots of the Login, Employees, Attendance, and Salary tabs here)*
+
 ![image](https://github.com/Vikas-Prajapati-04/employee-management-system/blob/9e88536d9bb35cc635ccb38a638069d27fdaa3a6/EMS.png)
 ---
 
